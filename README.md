@@ -6,6 +6,7 @@ fitur:
 - Menghapus data buku
 - Mencari data buku
 - Mengganti status data buku
+- Menyimpan data di LocalStorage 
 
 Pembuatan menggunakan js, css dan html vanilla 
 
