@@ -14,4 +14,4 @@ Submission dari Dicoding
 sangat simpel, mungkin nanti saya akan update versi lain atau akan saya ubah disini
 jika saya sudah memahami frame work css supaya tampilannya makin mantap!
 
-sekian terimakasih :D
+sekian Terima Kasih :D
